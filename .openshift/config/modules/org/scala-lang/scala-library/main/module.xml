@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module slot="main" name="org.scala-lang.scala-library" xmlns="urn:jboss:module:1.1">
+      <resources>
+        <resource-root path="scala-library-2.9.2.jar"></resource-root>
+      </resources>
+      <dependencies>
+        <module name="javax.api"></module>
+      </dependencies>
+    </module>
